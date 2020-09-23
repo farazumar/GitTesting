@@ -10,3 +10,5 @@ ________________________________________
 Testing if git works from my windows VM after installing git bash 
 
 checking git pull on windows VM - it works!
+
+Adding from windows VM
